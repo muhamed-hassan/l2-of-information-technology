@@ -1,8 +1,10 @@
-#### Please visit the wiki for more info https://github.com/muhamed-hassan/l2-of-information-technology/wiki
+#### Please visit the [wiki](https://github.com/muhamed-hassan/l2-of-information-technology/wiki) for more info
 
 ***
 
 **`Difficulty Level`**: [Research and development center](https://en.wikipedia.org/wiki/Research_and_development) over the planet 🌏 🌎 🌍.
+
+***
 
 [**Level 2** of information technology knowledge.](https://www.youtube.com/watch?v=FAu5HKIICC0)
 
